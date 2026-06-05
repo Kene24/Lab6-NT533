@@ -8,7 +8,7 @@
     "database.password": "dbz",
     "database.server.id": "1",
     "topic.prefix": "mysql_source",
-    "table.include.list": "sourcedb.users, sourcedb.posts, sourcedb.comments, sourcedb.tags",
+    "table.include.list": "sourcedb.users,sourcedb.posts,sourcedb.comments,sourcedb.tags",
     "schema.history.internal.kafka.bootstrap.servers": "kafka:29092",
     "schema.history.internal.kafka.topic": "schema-changes.mysql",
     "snapshot.mode": "initial",
